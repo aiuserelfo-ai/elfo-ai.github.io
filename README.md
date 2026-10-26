@@ -1,4 +1,5 @@
-# elfo-ai.github.[Uploading gta_elfo_11_adi.html…]()<!DOCTYPE html>
+[gta_elfo_y_v670.html](https://github.com/user-attachments/files/33982677/gta_elfo_y_v670.html)
+<!DOCTYPE html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>NEON HARBOR</title>
